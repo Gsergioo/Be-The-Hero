@@ -1,0 +1,6 @@
+ANOTAÇÕES SEMANA OMNISTACK:
+
+Be the hero, este é o nome da nossa aplicação.
+A aplicação consiste em cadastrar pessoas que queiram ajudar a ongs
+a ong cadastra sua empresa na web e logo após isso é possivel acessar os casos 
+de doações a partir do app mobile.
