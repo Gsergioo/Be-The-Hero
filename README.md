@@ -1,7 +1,7 @@
 # Be-The-Hero
 
 ## O que é: 
-O projeto consiste em uma aplicação onde é possível que ongs se cadastrem e aidicionem seus respectivos casos que necessitam de ajuda.
+O projeto consiste em uma aplicação onde é possível que ongs se cadastrem e adicionem seus respectivos casos para que pessoas possam cooperar.
 
 ## Objetivos: 
 O principal objetivo é fazer com que as ongs atinjam o maior número de pessoa possível.
